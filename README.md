@@ -1,7 +1,7 @@
 
 ## About me
 
-Hi there, my name is Denis. I am a postdoctoral researcher in applied mathematics at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/) in Berlin.
+Hi there! My name is Denis, and I am a postdoctoral researcher in applied mathematics at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/) in Berlin.
 
 
 
