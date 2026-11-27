@@ -9,7 +9,7 @@ My current research focuses on the structure-aware second-order training of neur
 
 
 
-My work spans numerical analysis, PDE-constrained optimization, reduced-order modeling, and physics-informed machine learning. My interests include adjoint-based methods, domain decomposition, and low-rank approximation techniques for efficient numerical optimization in physics-informed machine learning. 
+My work spans numerical analysis, PDE-constrained optimization, reduced-order modeling, and SciML. My interests include adjoint-based methods, domain decomposition, and low-rank approximation techniques for efficient numerical optimization in physics-informed machine learning. 
 
 
 ## Links
